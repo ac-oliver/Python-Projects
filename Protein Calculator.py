@@ -7,4 +7,4 @@ print('You weigh ' + weight + ' kgs.')
 
 protein = str(int(weight)* 1.6)
 
-print('Daily, you should consume ' + protein + ' grams of protein.')
+print(f"Daily, you should consume {protein} grams of protein.")
